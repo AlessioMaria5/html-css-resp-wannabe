@@ -138,9 +138,6 @@ img {
 
 @media screen and ( max-width: 480px ) {
 
-
-  
-
     h2 {
 
         max-width: 70%;
@@ -166,39 +163,24 @@ img {
         flex-wrap: wrap;
     }
 
-    img {
-
-        
-    }
 }
 
 @media screen and ( max-width: 768px ) {
 
     section.text-center , .why-us {
-
         display: flex;
         padding: 0;
- 
+
     }
-
     .container {
-
         padding-top: 20px;
         padding-bottom: 20px;
-
     }
 }
 
 @media screen and ( min-width: 769px ) and ( max-width: 1160px ) {
 
-
     .container {
-
         max-width: 100%;
     }
-
-
 }
-
-
-
