@@ -139,33 +139,12 @@ img {
 @media screen and ( max-width: 480px ) {
 
 
-    h3 {
-
-        max-width: 70%;
-      
-    }
+  
 
     h2 {
 
         max-width: 70%;
         margin: auto;
-    }
-
-    .row {
-
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
-
-  
-
-     .card {
-
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        align-items: center;
     }
 
     .col {
@@ -178,7 +157,13 @@ img {
 
         padding-top: 20px;
         padding-bottom: 20px;
+        max-width: 100%;
 
+    }
+
+    .row {
+
+        flex-wrap: wrap;
     }
 
     img {
