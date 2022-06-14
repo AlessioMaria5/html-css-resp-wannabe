@@ -195,6 +195,13 @@ img {
         padding: 0;
  
     }
+
+    .container {
+
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+    }
 }
 
 
