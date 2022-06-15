@@ -163,6 +163,17 @@ img {
         flex-wrap: wrap;
     }
 
+    .steps {
+
+        margin-bottom: 0;
+    }
+
+    .why-us {
+
+        background-color: black;
+        margin-bottom: 0;
+    }
+
 }
 
 @media screen and ( max-width: 768px ) {
